@@ -909,7 +909,7 @@ function runWebAppServer() {
       }));
     };
 
-    let localPort = process.env.PORT || 0;
+    var localPort = process.env.PORT;
     const unixSocketPath = process.env.UNIX_SOCKET_PATH;
 
     if (unixSocketPath) {

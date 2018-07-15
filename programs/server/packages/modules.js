@@ -98,7 +98,6 @@ install("webapp", "meteor/webapp/webapp_server.js");
 install("ddp-server");
 install("ddp");
 install("allow-deny");
-install("mongo-dev-server", "meteor/mongo-dev-server/server.js");
 install("binary-heap");
 install("mongo");
 install("blaze-html-templates");

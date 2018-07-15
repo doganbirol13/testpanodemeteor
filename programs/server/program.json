@@ -143,9 +143,6 @@
       "path": "packages/allow-deny.js"
     },
     {
-      "path": "packages/mongo-dev-server.js"
-    },
-    {
       "path": "packages/binary-heap.js"
     },
     {
