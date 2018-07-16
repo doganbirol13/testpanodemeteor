@@ -1,2 +1,0 @@
-/node_modules
-/programs/server/node_modules
